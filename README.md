@@ -1,7 +1,9 @@
 # Bem vindo(a) ao meu perfil
 
 Olá, eu sou Michael Sousa. Moro em Fortaleza, CE.  
+![1713290020097](https://github.com/user-attachments/assets/9bd1e8cf-2146-44fb-80c6-91fcc70d68f9)
 
+Moro em Fortaleza-Ce 🏠
 ## Meus hobbies
 
 - Praticar atividade física: Natação e Musculação;
